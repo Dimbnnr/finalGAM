@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+
+@import url(https://fonts.googleapis.com/css?family=Anton);
+
+
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand+SC);
+*{
+  box-sizing:border-box;
+}
+
+
+html, body{
+    margin: 0 0;
+    background-color: #E0D7CF;
+    text-align: center;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 2.2em;
+  }
+
+.button{
+    color: #FF7F50;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 0.8em;
+    border-radius: 30px;
+    padding: 5px 30px;
+    background-color: #3498db;
+  }
+
+  #onePlayer{
+padding: 5px 45px;
+  }
+
+  @import url(https://fonts.googleapis.com/css?family=Patrick+Hand+SC);
+*{
+  box-sizing:border-box;
+}
