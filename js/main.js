@@ -195,13 +195,13 @@ function keyListenerCaballito() {
         break;
     }
     switch (e.keyCode) {
-      case 90:
+      case 87:
         myGame.caballito2.moveUp();
         break;
       case 83:
         myGame.caballito2.moveDown();
         break;
-      case 81:
+      case 65:
         myGame.caballito2.moveLeft();
         break;
       case 68:
