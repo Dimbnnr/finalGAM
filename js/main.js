@@ -33,7 +33,7 @@ function pauseAudio() {
 var images = {
   backgroundImage: "./images/desert2.png",
   caballito1Image: "./images/caballito1.png",
-  caballito2Image: "./images/Caballito10.png",
+  caballito2Image: "./images/caballito10.png",
   caballito3Image: "./images/Caballito3.png",
   bottleMeteoro: "./images/meteoro-bottle.png",
   gotaBlue: "./images/gota-blue.png",
